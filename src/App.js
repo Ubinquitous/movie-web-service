@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+const span = React.createElement("span");
